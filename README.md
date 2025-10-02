@@ -20,19 +20,19 @@ Análise de dados de clientes de telecomunicações para identificar padrões de
 
 ### Análise Exploratória:
 
-Estatísticas descritivas (numéricas e categóricas)
+- Estatísticas descritivas (numéricas e categóricas)
 
-Contagens de cancelamento por gênero e idade
+- Contagens de cancelamento por gênero e idade
 
-Taxa de cancelamento por tempo de contrato
+- Taxa de cancelamento por tempo de contrato
 
 ## 📊 Visualizações Principais
 ### Distribuição de Cancelamentos:
 
-Gráficos de pizza por gênero (Feminino/Masculino)
+- Gráficos de pizza por gênero (Feminino/Masculino)
 
-Gráficos de pizza por idade (Idoso/Não-Idoso)
+- Gráficos de pizza por idade (Idoso/Não-Idoso)
 
-Histograma interativo de meses de contrato vs cancelamento
+- Histograma interativo de meses de contrato vs cancelamento
 
 
